@@ -61,12 +61,12 @@ Humble Bundle Library
 | Railroad Corportation | Steam | ✔ | OCTOBER 2022|
 | Raji: An Ancient Epic | Steam | ✔ | NOVEMBER 2022|
 | Random Access Murder | Steam | ✔ | |
-| RoboQuest | Steam | ✔ | November 2022 |
+| RoboQuest | Steam | ✔ | NOVEMBER 2022 |
 | Rocket League® | Steam | ❓ | |
 | Rusty Lake Paradise | Steam | ❓ | |
 | Satellite Reign | Steam | ✔ | |
 | Serial Cleaner | Steam | ✔ | |
-| Shadow Tactics: Aiko's Choice | Steam| ✔ | November 2022 |
+| Shadow Tactics: Aiko's Choice | Steam| ✔ | NOVEMBER 2022 |
 | Shapez + Puzzle DLC | Steam | ✔ | SEPTEMBER 2022 |
 | Sheltered | Steam | ✔ | |
 | Shiness: The Lightning Kingdom | Steam | ✔ | |
