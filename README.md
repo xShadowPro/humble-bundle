@@ -17,7 +17,7 @@ Humble Bundle Library
 | Crown Trick | Steam | ✔ | SEPTEMBER 2022|
 | Crusader Kings III | Steam | ✔ | SEPTEMBER 2022 |
 | Cthulhu Realms - Full Version | Steam | ✔ | |
-| Deathloop | Steam | ✔ | OCTOBER 2022 |
+| Deathloop | Steam | ❌ | OCTOBER 2022 |
 | Descenders | Steam | ✔ | SEPTEMBER 2022 |
 | Disciples: Liberation | Steam | ✔ | OCTOBER 2022 |
 | DISTRAINT 2 | Steam | ❓ | |
