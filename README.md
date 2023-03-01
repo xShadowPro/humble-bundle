@@ -55,6 +55,7 @@ Humble Bundle Library
 | Monster Train | Steam | ✔ | OCTOBER 2022 |
 | Morbid: The Seven Acolytes | Steam | ✔ | NOVEMBER 2022 |
 | Omno | Steam | ✔ | AUGUST 2022 |
+| Pathfinder: Wrath of the Righteous| Steam | ✔ | FEBRUARY 2023 |
 | Pathologic Classic HD | Steam | ✔ | |
 | Planet of the Eyes | Steam | ✔ | |
 | Poi (Steam) | Steam | ✔ | |
