@@ -13,6 +13,7 @@ Humble Bundle Library
 | Call of Duty®: Black Ops III - Multiplayer Starter Pack | Steam | ✔ | |
 | Call of Juarez®: Gunslinger | Steam | ✔ | |
 | Cook, Serve, Delicious! 2!! | Steam | ✔ | |
+| Conan chop chop | Steam | ✔ | FEBRUARY 2023 |
 | Copoka | Steam | ✔ | |
 | Crown Trick | Steam | ✔ | SEPTEMBER 2022|
 | Crusader Kings III | Steam | ✔ | SEPTEMBER 2022 |
@@ -23,20 +24,27 @@ Humble Bundle Library
 | DISTRAINT 2 | Steam | ❓ | |
 | DISTRAINT 2 Soundtrack | Steam | ❓ | |
 | Deponia Doomsday | Steam | ✔ | |
+| Doom Eternal | Steam | ✔ | FEBRUARY 2023 |
 | Dungeon of the Endless - Crystal Pack | Steam | ✔ | |
 | Eldest Souls | Steam | ✔ | NOVEMBER 2022 |
+| Encased: a sci-fi post-apocalyptic rpg | Steam | ✔ | FEBRUARY 2023 |
 | Emily is Away <3 | Steam | ✔ | AUGUST 2022 |
 | Epic Chef | Steam | ✔ | OCTOBER 2022 |
 | Epistory - Typing Chronicles | Steam | ✔ | |
-| Fidel - Dungeon Rescue | Steam | ✔ | |
+| Fallout 76 + fallout 1 | Steam | ✔ | FEBRUARY 2023 |
+| Fidel - Dungeon Rescue | Steam | ✔ | FEBRUARY 2023 |
+| Five dates | Steam | ✔ | FEBRUARY 2023 |
+| Fobia - st. Dinfna hotel | Steam | ✔ | |
 | Forged Battalion | Steam | ✔ | |
 | Forgive Me Father | Steam | ✔ | SEPTEMBER 2022 |
 | Gas Station Simulator | Steam | ✔ | AUGUST 2022 |
 | Golf Gang| Steam | ✔ | OCTOBER 2022 |
 | Grim Dawn | Steam | ✔ | |
 | Grow Home | Steam | ✔ | |
+| Grow: song of the evertree | Steam | ✔ | FEBRUARY 2023 |
 | Hearts of Iron IV | Steam | ✔ | |
 | Hell Let Loose | Steam | ✔ | NOVEMBER 2022 |
+| Hokko Life | Steam | ✔ | FEBRUARY 2023 |
 | Hot Wheels Unleashed | Steam | ✔ | AUGUST 2022 |
 | Hotline Miami 2: Wrong Number | Steam | ✔ | | 
 | In Sound Mind | Steam | ✔ | AUGUST 2022 |
@@ -54,8 +62,10 @@ Humble Bundle Library
 | Mind Scanners | Steam | ✔ | AUGUST 2022 |
 | Monster Train | Steam | ✔ | OCTOBER 2022 |
 | Morbid: The Seven Acolytes | Steam | ✔ | NOVEMBER 2022 |
+| Olliolli world - rad edition | Steam | ✔ | FEBRUARY 2023 |
 | Omno | Steam | ✔ | AUGUST 2022 |
-| Pathfinder: Wrath of the Righteous| Steam | ✔ | FEBRUARY 2023 |
+| Othercide | Steam | ✔ | FEBRUARY 2023 |
+| Pathfinder: Wrath of the Righteous | Steam | ✔ | FEBRUARY 2023 |
 | Pathologic Classic HD | Steam | ✔ | |
 | Planet of the Eyes | Steam | ✔ | |
 | Poi (Steam) | Steam | ✔ | |
@@ -66,8 +76,10 @@ Humble Bundle Library
 | Rocket League® | Steam | ❓ | |
 | Rusty Lake Paradise | Steam | ❓ | |
 | Satellite Reign | Steam | ✔ | |
+| Scourgebringer | Steam | ✔ | FEBRUARY 2023 |
 | Serial Cleaner | Steam | ✔ | |
 | Shadow Tactics: Aiko's Choice | Steam| ✔ | NOVEMBER 2022 |
+| Shady Part of Me | Steam | ✔ | FEBRUARY 2023 |
 | Shapez + Puzzle DLC | Steam | ✔ | SEPTEMBER 2022 |
 | Sheltered | Steam | ✔ | |
 | Shiness: The Lightning Kingdom | Steam | ✔ | |
@@ -85,9 +97,11 @@ Humble Bundle Library
 | The Escapists 2 | Steam | ✔ | |
 | The Incredible Adventures of Van Helsing: Final Cut | Steam | ✔ | |
 | The Red Solstice | Steam | ✔ | |
+| The serpent rogue | Steam | ✔ | FEBRUARY 2023 |
 | The Surge | Steam | ✔ | |
 | Titan Quest: Anniversary Edition + Titan Quest: Ragnarok DLC | Steam | ✔ | |
 | Train Valley | Steam | ✔ | |
+| Tribes of Midgard | Steam | ✔ | FEBRUARY 2023 |
 | Unexplored | Steam | ✔ | |
 | Unmetal | Steam | ✔ | NOVEMBER 2022 |
 | WWE 2K16 | Steam | ✔ | |
